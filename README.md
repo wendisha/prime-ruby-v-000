@@ -1,4 +1,4 @@
-# Implementing Prime
+249 / 695# Implementing Prime
 
 ## Objectives
 
